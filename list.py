@@ -40,3 +40,13 @@ print(numbers)
 # print(numbers)
 # numbers.pop()
 # print(numbers)
+
+# tuples
+# tuple are immutable
+tp=(1,2,3,4)
+print(tp)
+# tp1=(1) here the element will be printed and not a tuple
+
+# to print a single element tuple we will do this->tp1=(1,)
+tp1=(1,)
+print(tp1)
